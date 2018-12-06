@@ -37,4 +37,4 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
 
-### [Baidu](http://www.baidu.com)
+### Baidu
