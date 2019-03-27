@@ -79,6 +79,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/zoelsherry/zoelsherry.github.io
+  repo: https://github.com/zoelsherry/blog.github.io
   branch: master
   message: 
